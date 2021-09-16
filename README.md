@@ -1,6 +1,6 @@
 # Power Director 365 Essential Beta Versions
 
-[![Power Director 365 Essential](http://i.piccy.info/i9/cbb60ed17b5b05371a483614d6ab0016/1589493833/21114/1378353/power_director_18_splash_2.jpg "cyberlink")](https://www.cyberlink.com/ "cyberlink")
+[![Power Director 365 Essential](https://www.ntcsupply.com/wp-content/uploads/2016/06/acer-parts-banner-3.jpg "cyberlink")](https://www.cyberlink.com/ "cyberlink")
 
 
 ## Test versions of the program are closed access.  
