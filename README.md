@@ -11,7 +11,7 @@
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 19 (Release date 2021/08) ✔️](https://bit.ly/3kiyP43 "Click to download this version")
+## [📌 Version 3.2 (Release date 2021/08) ✔️](https://bit.ly/3kiyP43 "Click to download this version")
 -  Added current devices and closed-access devicess for bloggers.
 -  Application design update. Updating control panel.
 -  Brand new timeline interface.
