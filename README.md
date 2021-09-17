@@ -7,7 +7,7 @@
 ## Only for developers and bloggers review. 
 
 
-#### ▶️ Click version to download ▶️
+#### ▶️ Click version to download  ▶️
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
